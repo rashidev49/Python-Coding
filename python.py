@@ -1,1 +1,1 @@
-print('Rashi Dev')
+print('Rashi')
